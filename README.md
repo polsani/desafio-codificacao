@@ -8,7 +8,7 @@ Os **parâmetros** da função são:
 - A reserva a ser autorizada
 - O estado do cliente
 
-A **reserva** é feita para um voo (`Flight`), possui um determinado valor (`Amount`), a data e hora de partida e chegada (`DepartureDateTime`, `ArriveDateTime`), aeroporto de partida e chegada ('', '') e a distancia do voo ('Distance')
+A **reserva** é feita para um voo (`Flight`), possui um determinado valor (`Amount`), a data e hora de partida e chegada (`DepartureDateTime`, `ArriveDateTime`), aeroporto de partida e chegada ('DepartureAirport', 'ArriveAirport') e a distancia do voo ('Distance')
 
 O **estado** do cliente inclui as seguintes informações:
 - Se o cliente está ativo (`Active`)
