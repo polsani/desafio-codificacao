@@ -29,3 +29,5 @@ A autorização de uma reserva deve seguir as seguintes regras:
 - O intervalo mínimo entre a chegada de uma reserva e a partida de outra no caso delas serem no mesmo dia é de no mínimo 3 horas: 'invalid-booking-interval'
 
 Se todas as regras forem atendidas, a quantidade de milhas deve ser adicionada no saldo de milhas do cliente e o histórico de reservas deve ser atualizado.
+
+## Teste sua solução
