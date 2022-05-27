@@ -17,7 +17,7 @@ O **estado** do cliente inclui as seguintes informações:
 
 ## Saída
 
-O estado atual da conta junto de quaisquer violações da lógica de negócios. Se não houverem violações no processamento da operação, o campo 'Violations' deve retornar um vetor vazio [].
+O estado atual da conta junto de quaisquer violações da lógica de negócios. Se não houver violações no processamento da operação, o campo 'Violations' deve retornar um vetor vazio [].
 
 ## Regras de negócio
 
